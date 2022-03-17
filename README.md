@@ -1,6 +1,7 @@
 # Sahil Mody
 - I am currently pursuing Master in Computer Science at Stevens Institute of Technology, NJ. 
 - I am interested in Software Development.:technologist:
+- Skilled in langugages such as Python and JavaScript
 - Lets connect:\
 Linkedin-https://www.linkedin.com/in/sahil-mody-084238180/ \
 Email- sahilmody1234@gmail.com / smody@stevens.edu
