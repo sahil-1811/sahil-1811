@@ -2,7 +2,7 @@
 - I am currently pursuing Master in Computer Science at Stevens Institute of Technology, NJ. 
 - Software Development or Data Science is something that interests me.:technologist:
 - Lets connect:\
-Linkedin-https://www.linkedin.com/in/sahil-mody-084238180/ \
+Linkedin-https://www.linkedin.com/in/sahil-mody/ \
 Email- sahilmody1234@gmail.com / smody@stevens.edu
 
 # TECHNICAL SKILLS
