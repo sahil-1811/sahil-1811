@@ -29,7 +29,7 @@
 	alt="sahil-1811" width="400"  /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-1811&layout=compact&theme=radical&show_icons=true&locale=en" 
-	alt="sahil-1811" width="400"  /></p>
+	alt="sahil-1811" width="400" /></p>
   
 
 
