@@ -28,9 +28,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sahil-1811&layout=compact&theme=radical&show_icons=true&locale=en" 
 	alt="sahil-1811" width="400"  /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-1811&layout=compact&theme=radical&show_icons=true&locale=en" 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-1811&hide=Jupyter%20Notebook&layout=compact&theme=radical&show_icons=true&locale=en" 
 	alt="sahil-1811" width="400" /></p>
-  
+	https://github-readme-stats.vercel.app/api/top-langs?username=AustinCaudill&hide=Jupyter%20Notebook
 
 
 
