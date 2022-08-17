@@ -4,6 +4,7 @@
 
 ## **📫 Connect with Me!**
 [![Linkedin Badge](https://img.shields.io/badge/-sahilmody-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-mody/)  [![Mail Badge](https://img.shields.io/badge/-smody@stevens.edu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:smody@stevens.edu)
+[![Tableau Badge](https://img.shields.io/badge/-TableauProfile-E97627?style=flat&labelColor=212121&logo=tableau)](https://public.tableau.com/app/profile/sahil.mahendra.mody)
 
 - 🎓 I’m currently pursuing Master of Science (MSc) in Computer Science @ [Stevens Institute of Technology](https://www.stevens.edu/)
 - 🔭 I’m currently working on Website Development, Python Automation, SQL, Machine Learning and Data Analytics. 
