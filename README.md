@@ -5,7 +5,7 @@
 ## **📫 Connect with Me!**
 [![Linkedin Badge](https://img.shields.io/badge/-sahilmody-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-mody/)  [![Mail Badge](https://img.shields.io/badge/-smody@stevens.edu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:smody@stevens.edu)
 [![Tableau Badge](https://img.shields.io/badge/-TableauProfile-E97627?style=flat&labelColor=212121&logo=tableau)](https://public.tableau.com/app/profile/sahil.mahendra.mody)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/sahil181199/)
+<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/sahil181199/) -->
 
 - 🎓 I’m currently pursuing Master of Science (MSc) in Computer Science @ [Stevens Institute of Technology](https://www.stevens.edu/)
 - 🔭 Currently I'm working on **my programming skills🖥️**
