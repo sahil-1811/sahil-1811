@@ -5,11 +5,12 @@
 ## **📫 Connect with Me!**
 [![Linkedin Badge](https://img.shields.io/badge/-sahilmody-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-mody/)  [![Mail Badge](https://img.shields.io/badge/-smody@stevens.edu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:smody@stevens.edu)
 [![Tableau Badge](https://img.shields.io/badge/-TableauProfile-E97627?style=flat&labelColor=212121&logo=tableau)](https://public.tableau.com/app/profile/sahil.mahendra.mody)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/sahil181199/)
 
 - 🎓 I’m currently pursuing Master of Science (MSc) in Computer Science @ [Stevens Institute of Technology](https://www.stevens.edu/)
-- 🔭 I’m currently working on Website Development, Python Automation, SQL, Machine Learning and Data Analytics. 
+- 🔭 Currently I'm working on **my programming skills🖥️**
 - 🌱 I’m currently learning ReactJS, GraphQL, Redux, Node.js, Express.js and AWS.
-- 🤝 I’m looking to collaborate with Data Nerds who share the same passion for uncovering insights from the data.
+- 🤝 I have the potential to learn **anything & everything 🧑‍🎓**
 - 🌍 I'm looking to contribute more to open source Website Development projects.
 - 💬 Ask me about Software Development, Website Development, Data Science, Machine Learning, and Data Analytics.
 - ⚡ Fun fact: Apart from being Tech Geek, I love to play Cricket and  Volleyball. 
