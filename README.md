@@ -32,6 +32,13 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-1811&hide=Jupyter%20Notebook&layout=compact&theme=radical&show_icons=true&locale=en" 
 	alt="sahil-1811" width="400" /></p>
-
+  
+ <div align="center">
+ 
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+  
+</div>
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
 
