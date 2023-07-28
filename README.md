@@ -8,7 +8,7 @@
 [![Tableau Badge](https://img.shields.io/badge/-TableauProfile-E97627?style=flat&labelColor=212121&logo=tableau)](https://public.tableau.com/app/profile/sahil.mahendra.mody)
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/sahil181199/) -->
 
-- 🎓 I’m currently pursuing Master of Science (MSc) in Computer Science @ [Stevens Institute of Technology](https://www.stevens.edu/)
+- 🎓 CS Grad @ [Stevens Institute of Technology](https://www.stevens.edu/)
 - 🔭 Currently I'm working on **my programming skills🖥️**
 - 🌱 I’m currently learning ReactJS, GraphQL, Redux, Node.js, Express.js and AWS.
 - 🤝 I have the potential to learn **anything & everything 🧑‍🎓**
