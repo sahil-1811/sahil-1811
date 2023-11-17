@@ -10,11 +10,11 @@
 
 - 🎓 CS Grad @ [Stevens Institute of Technology](https://www.stevens.edu/)
 - 🔭 Currently I'm working on **my programming skills🖥️**
-- 🌱 I’m currently learning ReactJS, GraphQL, Redux, Node.js, Express.js and AWS.
+- 🌱 I’m currently learning Microsoft Azure Data Factory, Azure Data Bricks and Microsoft Power BI.
 - 🤝 I have the potential to learn **anything & everything 🧑‍🎓**
-- 🌍 I'm looking to contribute more to open source Website Development projects.
-- 💬 Ask me about Software Development, Website Development, Data Science, Machine Learning, and Data Analytics.
-- ⚡ Fun fact: Apart from being Tech Geek, I love to play Cricket and  Volleyball. 
+- 🌍 I'm looking to contribute more to open-source Data related projects.
+- 💬 Ask me about Data Engineering, Data Analytics, Software Development, Website Development, Data Science, and Machine Learning.
+- ⚡ Fun fact: Apart from being a Tech Geek, I love to play Cricket and  Volleyball. 
 
 
 ## **👨‍💻 Top Technologies**
